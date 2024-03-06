@@ -1,5 +1,5 @@
-# Welcome to Konish's Github!
-👋 I'm Konish. I'm really passionate about the intersection of creativity and technology. Below you'll find a list of personal projects I've undertaken in my pursuit to a) deepen my understanding of computer science b) find an outlet to express my creative impulse.
+# 👋 I'm Konish.
+I'm really passionate about the intersection of creativity and technology. Below you'll find a list of personal projects I've undertaken in my pursuit to a) deepen my understanding of computer science b) find an outlet to express my creative impulse.
 
 | Project    | Description |
 | -------- | ------- |
